@@ -18,7 +18,7 @@ There are two sample video avilable in "./input", you can test the code using th
 
 
 # More
-If you are not happy with the results, you can fine tune parameters given in the code. It is always possible to get good results for any video, if you have right set of parameters. Just play around with it and you will develop an intution.
+If you are not happy with the results, you can fine tune parameters given in the code. It is always possible to get good results for any video, if you have right set of parameters. Just play around with it and you will develop an intution. This Could be especially necessray when you are dealing with video presentation with animations.
 
 
 # Developer contact info
