@@ -1,0 +1,3 @@
+opencv-python==4.2.0.32
+imutils==0.5.3
+imgae2pdf==0.4.1
