@@ -1,6 +1,7 @@
 # video2pdfslides
 # Description
 This project converts a video presentation into a deck of pdf slides by capturing screenshots of unique frames
+youtube demo: https://www.youtube.com/watch?v=Q0BIPYLoSBs&t=15s
 
 # Setup
 pip install -r requirements.txt
