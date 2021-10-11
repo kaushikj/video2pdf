@@ -19,7 +19,8 @@ There are two sample video avilable in "./input", you can test the code using th
 
 
 # More
-If you are not happy with the results, you can fine tune parameters given in the code. It is always possible to get good results for any video, if you have right set of parameters. Just play around with it and you will develop an intution. This Could be especially necessray when you are dealing with video presentation with animations.
+The default parameters works for a typical video presentation. But if the video presentation has lots of animations, the default parametrs won't give a good results, you may notice duplicate/missing slides. Don't worry, you can make it work for any video presentation, even the ones with animations, you just need to fine tune and figure out the right set of parametrs, The 3 most important parameters that I would recommend to get started is "MIN_PERCENT", "MAX_PERCENT", "FGBG_HISTORY". The description of these variables can be found in code comments.
+
 
 
 # Developer contact info
