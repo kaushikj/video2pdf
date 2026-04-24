@@ -1,3 +1,2 @@
-imutils==0.5.4
 opencv_python==4.5.2.52
 img2pdf==0.4.1
